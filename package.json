@@ -1,0 +1,22 @@
+{
+  "name": "fcc_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman18031992/fcc_node.git"
+  },
+  "author": "Aman Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman18031992/fcc_node/issues"
+  },
+  "homepage": "https://github.com/aman18031992/fcc_node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
